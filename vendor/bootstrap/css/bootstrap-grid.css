@@ -9,6 +9,12 @@ html {
   -ms-overflow-style: scrollbar;
 }
 
+.teste{
+  font-family: sans-serif;
+  color:#f00;
+  font-size: 10px;
+}
+
 *,
 *::before,
 *::after {
@@ -20,8 +26,7 @@ html {
   padding-right: 15px;
   padding-left: 15px;
   margin-right: auto;
-  margin-left: auto;
-  font-family: "Niconne";
+  margin-left: auto;  
 }
 
 @media (min-width: 576px) {
